@@ -15,6 +15,7 @@ By the end of this tasks, you will have a **public subnet** that can communicate
   
 
 ---
+![Alt Text](https://github.com/cloudybdone/pulumi-aws-project/blob/main/Screenshot%20from%202025-09-04%2016-25-37.png)
 
 ## ⚙️ Step 1: Configure AWS CLI
 Run the following command to configure AWS CLI with your credentials:
@@ -33,6 +34,7 @@ Provide:
 ---
 
 ## ⚙️ Step 2: Set Up a Pulumi Project
+![Alt Text](https://github.com/cloudybdone/pulumi-aws-project/blob/main/Screenshot%20from%202025-09-04%2016-26-31.png)
 
 ### 2.1 Create a Project Directory
 
@@ -54,6 +56,8 @@ Follow the prompts:
 * **Description** → optional
 
 ---
+![Alt Text](https://github.com/cloudybdone/pulumi-aws-project/blob/main/Screenshot%20from%202025-09-04%2016-27-09.png)
+
 
 ## ⚙️ Step 3: Create the Pulumi Program
 
@@ -148,6 +152,7 @@ Run:
 ```bash
 pulumi up
 ```
+![Alt Text](https://github.com/cloudybdone/pulumi-aws-project/blob/main/Screenshot%20from%202025-09-04%2016-27-30.png)
 
 * **Preview** → shows resources to be created
 * **Confirm** → type `yes`
@@ -172,6 +177,7 @@ In the **AWS Management Console**, check:
 * **Associations** → subnet associated with the route table
 
 ---
+![Alt Text](https://github.com/cloudybdone/pulumi-aws-project/blob/main/Screenshot%20from%202025-09-04%2016-27-55.png)
 
 ## 🧹 Step 6: Tear Down the Deployment
 
@@ -180,6 +186,7 @@ To destroy resources:
 ```bash
 pulumi destroy
 ```
+![Alt Text](https://github.com/cloudybdone/pulumi-aws-project/blob/main/Screenshot%20from%202025-09-04%2016-28-27.png)
 
 To remove the stack completely:
 
@@ -209,3 +216,8 @@ This is the foundation for deploying **public-facing applications** on AWS.
 
 ```
 
+## Author
+
+**Mohammed Salehuzzaman**\
+ Sr.DevOps Engineer\
+[GitHub](https://github.com/cloudybdone)
