@@ -4,7 +4,7 @@
 This lab documentation demonstrates how to set up a basic AWS network infrastructure using **Pulumi (Python)** and the **AWS CLI**.  
 We will create a **VPC with a public subnet**, configure an **Internet Gateway (IGW)**, and associate a **Route Table** to allow Internet access.  
 
-By the end of this tasks, you will have a **public subnet** that can communicate with the Internet, forming the foundation for running public-facing applications on AWS.
+By the end of this tasks, we will have a **public subnet** that can communicate with the Internet, forming the foundation for running public-facing applications on AWS.
 
 ---
 
@@ -214,7 +214,7 @@ This is the foundation for deploying **public-facing applications** on AWS.
 * [Pulumi AWS Documentation](https://www.pulumi.com/docs/clouds/aws/)
 * [AWS VPC Concepts](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
-```
+``
 
 ## Author
 
