@@ -214,7 +214,7 @@ This is the foundation for deploying **public-facing applications** on AWS.
 * [Pulumi AWS Documentation](https://www.pulumi.com/docs/clouds/aws/)
 * [AWS VPC Concepts](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
-``
+
 
 ## Author
 
